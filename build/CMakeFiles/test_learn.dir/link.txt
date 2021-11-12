@@ -1,0 +1,2 @@
+D:\xjy\g++\mingw64\bin\ar.exe qc libtest_learn.a CMakeFiles/test_learn.dir/test_learn.cpp.obj
+D:\xjy\g++\mingw64\bin\ranlib.exe libtest_learn.a

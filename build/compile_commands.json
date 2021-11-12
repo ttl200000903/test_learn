@@ -1,0 +1,7 @@
+[
+{
+  "directory": "D:/CGLearn/test_learn/build",
+  "command": "D:\\xjy\\g++\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe   -g -o CMakeFiles\\test_learn.dir\\test_learn.cpp.obj -c D:\\CGLearn\\test_learn\\test_learn.cpp",
+  "file": "D:/CGLearn/test_learn/test_learn.cpp"
+}
+]
